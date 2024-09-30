@@ -13,4 +13,5 @@ In this project, we will uncover key insights by addressing the following questi
 - Is there a correlation between the frequency of calls/complaints and household income across different locations (top 20 percentiles)?
 ## Project Visualization Overview
 This project requires either Tableau Desktop or Tableau Cloud for optimal visualization, as Tableau Public lacks the necessary memory capacity to handle our data. Utilizing these platforms ensures seamless interaction with complex datasets and enhances data storytelling through dynamic visualizations.
-Project Link: 
+Given the file's large size of approximately 125 MB, please download it from Google Drive.
+https://drive.google.com/file/d/1YuACIogJG_GgQUIGtED1pF8Ru2rvWKoR/view?usp=sharing
