@@ -1,4 +1,4 @@
-# Tableau_Visualization
+# Tableau_Visualization_Project
 ## Data Visualization Project: Exploring Incident Patterns and Socioeconomic Insights
 This project analyzes incident frequency across NYC boroughs and neighborhoods, uncovering recurring patterns and assessing the correlation between household income and complaint frequency. The visualization offers actionable insights into the socio-economic factors influencing incident trends, helping to inform data-driven decision
 ## Data Used For This Project
