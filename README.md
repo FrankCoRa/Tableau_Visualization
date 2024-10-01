@@ -12,6 +12,6 @@ In this project, we will uncover key insights by addressing the following questi
 - Which neighborhood boasts the highest household income within each borough?
 - Is there a correlation between the frequency of calls/complaints and household income across different locations (top 20 percentiles)?
 ## Project Visualization Overview
-This project requires either Tableau Desktop or Tableau Cloud for optimal visualization, as Tableau Public lacks the necessary memory capacity to handle our data. Utilizing these platforms ensures seamless interaction with complex datasets and enhances data storytelling through dynamic visualizations.
+This project requires either Tableau Desktop or Tableau Cloud for optimal visualization, as Tableau Public lacks the necessary memory capacity to handle this tableau file. Utilizing these platforms ensures seamless interaction with complex datasets and enhances data storytelling through dynamic visualizations.
 Given the file's large size of approximately 125 MB:
 - Download it from Google Drive at https://drive.google.com/file/d/1YuACIogJG_GgQUIGtED1pF8Ru2rvWKoR/view?usp=sharing
